@@ -19,6 +19,7 @@ Other conditional test:
 * `x != a`: is x not a?
 * `x`: does x exist?
 
+CODE STOLEN FROM HERE 
 ## Logical Comparison
 
 In order to avoid the if-else hassle, simple logical comparisons can be utilised.
