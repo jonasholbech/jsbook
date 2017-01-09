@@ -1,5 +1,6 @@
 # Summary
 
+* [Introduction](README.md)
 * [Basics](basics/README.md)
     * [Comments](basics/comments.md)
     * [Variables](basics/variables.md)
@@ -28,7 +29,6 @@
 * [Functions](functions/README.md)
     * [Declare](functions/declare.md)
     * [Higher order](functions/higher_order.md)
-<!--- * [Objects](objects/README.md)
     * [Creation](objects/creation.md)
     * [Properties](objects/properties.md)
     * [Mutable](objects/mutable.md)
@@ -36,4 +36,6 @@
     * [Prototype](objects/prototype.md)
     * [Delete](objects/delete.md)
     * [Enumeration](objects/enumeration.md)
-    * [Global footprint](objects/global_footprint.md)-->
+    * [Global footprint](objects/global_footprint.md)
+* [test](test.md)
+
