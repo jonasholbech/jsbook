@@ -2,7 +2,8 @@
 
 Some advanced operators can be used, such as:
 
-* **Modulus (division remainder)**: ```x = y % 2```
+* **Modulus (division remainder)**: ```x = y % 2``` (what's left if you subtract 2 from ```y``` as many times as you can)
+So if ´´´y´´´ is 5 the result is 1
 * **Increment**: Given a = 5
     * ```c = a++```, Results: c = 5 and a = 6
     * ```c = ++a```, Results: c = 6 and a = 6
