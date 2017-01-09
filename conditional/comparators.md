@@ -12,8 +12,8 @@ The conditional part is the variable `country` followed by the three equal signs
 Depending on what your program is doing, this could make quite a difference.  It is highly recommended as a best practice that you always compare equality with three equal signs \(`===` and `!==`\) instead of two \(`==` and `!=`\).
 
 Other conditional test:
-* ```x > a```: is x bigger than a?
-* `x < a`: is x less than a?
+* ```x \> a```: is x bigger than a?
+* `x \&lt; a`: is x less than a?
 * `x <= a`: is x less than or equal to a?
 * `x >=a`: is x greater than or equal to a?
 * `x != a`: is x not a?
