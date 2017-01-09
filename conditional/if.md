@@ -12,29 +12,24 @@ The condition has to be true for the code inside the curly braces to be executed
 var country = 'France';
 var weather;
 var food;
-var currency;
 
 if(country === 'England') {
     weather = 'horrible';
     food = 'filling';
-    currency = 'pound sterling';
 }
 
 if(country === 'France') {
     weather = 'nice';
     food = 'stunning, but hardly ever vegetarian';
-    currency = 'funny, small and colourful';
 }
 
 if(country === 'Germany') {
     weather = 'average';
     food = 'wurst thing ever';
-    currency = 'funny, small and colourful';
 }
 
 var message = 'this is ' + country + ', the weather is ' +
-            weather + ', the food is ' + food + ' and the ' +
-            'currency is ' + currency;
+            weather + ', the food is ' + food;
 ```
 
 **Note:** Conditions can also be nested.
