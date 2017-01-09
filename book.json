@@ -2,6 +2,7 @@
     "gitbook": ">1.x.x",
     "plugins": [
         "exercises-quote-fix",
-        "exercises"
+        "exercises",
+        "exercises-tmp-fixed-6"
     ]
 }
