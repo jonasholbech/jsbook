@@ -12,7 +12,7 @@ The conditional part is the variable `country` followed by the three equal signs
 
 Other conditional test:
 
-* `x > a`: is x bigger than a?
+* ```x > a```: is x bigger than a?
 * `x < a`: is x less than a?
 * `x <= a`: is x less than or equal to a?
 * `x >=a`: is x greater than or equal to a?
