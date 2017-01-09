@@ -4,7 +4,7 @@ Lets now focus on the conditional part:
 
 ```javascript
 if (country === "France") {
-    ...
+    //Do something if the country is France
 }
 ```
 
