@@ -11,7 +11,7 @@ var size = 'Our lovely string'.length;
 **Note:** Strings can not be substracted, multiplied or divided.
 
 {% exercise %}
-Store in the variable named `size` the length of `str`.
+Store the length of `str` in the variable named `size`.
 {% initial %}
 var str = "Hello World";
 

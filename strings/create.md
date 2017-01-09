@@ -13,7 +13,7 @@ var otherStr = "Another nice string";
 In Javascript, Strings can contain UTF-8 characters:
 
 ```js
-"中文 español English हिन्दी العربية português বাংলা русский 日本語 ਪੰਜਾਬੀ 한국어";
+"中文 español English Rød grød med fløde हिन्दी العربية português বাংলা русский 日本語 ਪੰਜਾਬੀ 한국어";
 ```
 
 
