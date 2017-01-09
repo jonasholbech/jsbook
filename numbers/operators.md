@@ -11,7 +11,7 @@ You can use parentheses just like in math to separate and group expressions: ```
 
 
 {% exercise %}
-Create a variable `x` equal to the **sum** of `a` and `b` divided by `c` and finally multiplied by `d`.
+Create a variable ```x``` equal to the **sum** of `a` and `b` divided by `c` and finally multiplied by `d`.
 {% initial %}
 var a = 2034547;
 var b = 1.567;
