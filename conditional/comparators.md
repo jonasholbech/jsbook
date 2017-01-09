@@ -15,13 +15,15 @@ Other conditional test:
 * ```js
  x > a
  ```: is x bigger than a?
-* ```x &lt; a```: is x less than a?
+* ```x < a```: is x less than a?
 * ```x <= a```: is x less than or equal to a?
 * ```x >=a```: is x greater than or equal to a?
 * ```x != a```: is x not a?
 * ```x```: does x exist?
 
-
+```javascript
+x < a
+```
 {% exercise %}
 Add a condition to change the value of `a` to the number 10 if `x` is bigger than 5.
 {% initial %}
