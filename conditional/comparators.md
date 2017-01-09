@@ -20,7 +20,22 @@ Other conditional test:
 * `x != a`: is x not a?
 * `x`: does x exist?
 
-CODE STOLEN FROM HERE 
+{% exercise %}
+Add a condition to change the value of `a` to the number 10 if `x` is bigger than 5.
+{% initial %}
+var x = 6;
+var a = 0;
+{% solution %}
+var x = 6;
+var a = 0;
+
+if (x > 5) {
+a = 10;
+}
+{% validation %}
+assert(a === 10);
+{% endexercise %}
+
 ## Logical Comparison
 
 In order to avoid the if-else hassle, simple logical comparisons can be utilised.
